@@ -1,0 +1,6 @@
+{
+  "name": "EcoShop",
+  "description": "A high-fidelity interactive green e-commerce ordering and delivery tracker app with carbon-neutral shipping customs and sustainable product catalogs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
